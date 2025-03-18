@@ -37,4 +37,4 @@ Reg.No:212222230160
 ![image](https://github.com/user-attachments/assets/2b9c09d0-d32e-478d-bf84-c995264d7af8)
 
 ### Result:
-Thus, the implementation of  preprocessing technique on Twitter Data using Rapidminer is executes successfully.
+Thus, the implementation of  preprocessing technique on Twitter Data using Rapidminer is executed successfully.
